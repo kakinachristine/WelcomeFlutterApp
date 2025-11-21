@@ -24,11 +24,6 @@ android {
 
     signingConfigs {
         release {
-            keyAlias 'key'
-            keyPassword 'jaguar0000'
-//            storeFile file('/Users/j-gastechnical/Desktop/keystore.jks')
-            storeFile file('C:/Users/ChristineKakina/keystore.jks')
-            storePassword 'jaguar0000'
         }
     }
 
